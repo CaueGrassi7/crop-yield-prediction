@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Project-Specific Rules ---
+# Ignore all content within the data folder
+data/
+
+# PyCharm specific files
+.idea/
