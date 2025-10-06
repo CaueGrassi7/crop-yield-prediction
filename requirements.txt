@@ -1,0 +1,50 @@
+Bottleneck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_55txi4fy1u/croot/bottleneck_1731058642212/work
+certifi==2025.10.5
+charset-normalizer==3.4.3
+contourpy==1.3.3
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+docutils==0.22.2
+fonttools @ file:///opt/miniconda3/conda-bld/fonttools_1759754874393/work
+id==1.5.0
+idna==3.10
+jaraco.classes==3.4.0
+jaraco.context==6.0.1
+jaraco.functools==4.3.0
+joblib @ file:///opt/miniconda3/conda-bld/joblib_1757926354564/work
+keyring==25.6.0
+kiwisolver @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_cc2l_z_0ri/croot/kiwisolver_1737039586949/work
+markdown-it-py==4.0.0
+matplot==0.1.9
+matplotlib==3.10.6
+mdurl==0.1.2
+more-itertools==10.8.0
+nh3==0.3.0
+numexpr @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_766kpwgy17/croot/numexpr_1755766476118/work
+numpy @ file:///opt/miniconda3/conda-bld/numpy_and_numpy_base_1757670245421/work/dist/numpy-2.3.3-cp313-cp313-macosx_12_0_arm64.whl#sha256=470d671faaefbd3b226509d55868e07959432f1431529ee5fa9fc825af6d2f1a
+packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b31rpdx1of/croot/packaging_1753775365574/work
+pandas @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_821z9jhn6_/croot/pandas_1756466408691/work/dist/pandas-2.3.2-cp313-cp313-macosx_11_0_arm64.whl#sha256=233278cd39c5994202b792d44719d8e298d188d7c1eea71e317526970ecea330
+pillow @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_94x67n90dt/croot/pillow_1752524540258/work
+Pygments==2.19.2
+pyloco==0.0.139
+pyparsing==3.2.5
+python-dateutil @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/python-dateutil_1728585579455/work
+pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3bjczh6it0/croot/pytz_1752135865541/work
+readme_renderer==44.0
+requests==2.32.5
+requests-toolbelt==1.0.0
+rfc3986==2.0.0
+rich==14.1.0
+scikit-learn @ file:///opt/miniconda3/conda-bld/scikit-learn_1758620844345/work
+scipy @ file:///opt/miniconda3/conda-bld/scipy_1759489055033/work/dist/scipy-1.16.2-cp313-cp313-macosx_12_0_arm64.whl#sha256=2e5d2142bf6cd52617103e9b7055e239beb2f1ab03c1185f28106f2491d8def6
+seaborn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_74n8m1zz4r/croot/seaborn_1749110344248/work
+setuptools==72.1.0
+SimpleWebSocketServer==0.1.2
+six @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_03myqm7p6o/croot/six_1744271511946/work
+threadpoolctl @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_18rgexrkuo/croot/threadpoolctl_1731006101562/work
+twine==6.2.0
+typing==3.7.4.3
+tzdata @ file:///croot/python-tzdata_1746123641790/work
+urllib3==2.5.0
+ushlex==0.99.1
+websocket-client==1.8.0
+wheel==0.45.1
